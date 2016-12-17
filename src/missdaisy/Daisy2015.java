@@ -70,6 +70,7 @@ public class Daisy2015 extends IterativeRobot
         autoChooser.addObject("3Tote", new Auto3Tote());
         
         loadAllProperties();
+        // Wow, I can use github!
         
         //DriverStationLCD.getInstance().println(DriverStationLCD.Line.kUser2, 1, "AUTO: Shoot in place  ");
         //DriverStationLCD.getInstance().println(DriverStationLCD.Line.kUser3, 1, "                      ");
